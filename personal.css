@@ -49,3 +49,6 @@ ul.socialIcons {
     background-color: rgba(var(--bs-light-rgb),var(--bs-bg-opacity));
     box-shadow: 0 0 px #0b0d10;
   }
+  .aa{
+    color: #fff;
+  }
